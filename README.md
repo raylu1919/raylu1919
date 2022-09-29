@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @raylu1919
-- 👀 I’m interested in ruby programming, which is a fantastic language for building web applications.
-- 🌱 I have developed several Rails apps, Rails is a great framework.Rails makes coding work more fun.
-- 💞️ I’m looking to collaborate on ruby and Rails.
+- 👀 I’m interested in ruby programming, which is a fantastic language and makes coding work full of fun.
 - 📫 Please contact me via email: ray1919@qq.com.
 
 <!---
