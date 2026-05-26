@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @raylu1919
+- 👋 Hi, I’m @raylu
 - 👀 I’m interested in ruby programming, which is a fantastic language and makes coding work full of fun.
 - 📫 Please contact me via email: ray1919@qq.com.
 
